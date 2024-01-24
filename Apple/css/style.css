@@ -1,0 +1,273 @@
+
+.nav-item{
+    margin-left: 10px;
+}
+.navHeader{
+    position: Sticky;
+    top: 0;
+}
+.visionContent{
+    background-image: url(../assests/Apple-Vision-Pro.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 120vh;
+}
+.divContent{
+    text-align: center;
+    padding-top: 30%;
+    color: white;
+    font-size: 25px;
+}
+ .divContent h1{
+    font-size: 50px;
+    margin: 0 !important;
+}
+.divContent p{
+   color: black;
+}
+.divContent a{
+    text-decoration: none;
+}
+@media only screen and (min-width: 368px) {
+    .divContent {
+        padding-top: 20%;
+        font-size: 25px;
+        text-align: center;
+        color: white;
+        height: 70vh;
+        background-size: cover;
+}
+.divContent p{
+    color: rgb(236, 229, 229);
+ }
+
+}
+@media only screen and (min-width:468px){
+    .iphone15{
+        padding-top: 0%;
+        font-size: 30px;
+        background-image:url(../assests/iphone15\ \(1\).jpg);
+        text-align: center;
+        color:black ;
+        background-size: cover;
+        height: 70vh;
+    }
+} 
+
+@media only screen and (min-width:468px){
+    .iphone15Pro{
+        padding-top: 0%;
+        font-size: 30px;
+        background-image:url(../assests/i\ phone15\ pro.jpg);
+        text-align: center;
+        color: white;
+        background-size: cover;
+        height: 70vh;
+    }
+} 
+
+@media only screen and (min-width: 468px) {
+    .app{
+        top: 1000px !important;
+    }
+}
+.footerContent{
+    margin: 0 100px;
+}
+
+.col12{
+   
+    width: 100%;
+    margin-left: 50px;
+    line-height: 27px;
+}
+ul{
+    list-style-type: none;
+}
+.col6{
+    width: 18%;
+    float: left;
+    margin-left: 5px;
+}
+
+.iphone15Pro{
+    background-image: url(../assests/9.jpeg);
+    height: 70vh;
+    text-align: center;
+    color: white;
+}
+.heading{
+    font-size: 7vh;
+    padding-top: 5vh;
+}
+.Titanium{
+    font-size: 5vh;
+    margin-top: -2vh;
+}
+.learnmore{
+    color: blue;
+    font-size: 3vh;
+    padding-left: 4vh;
+    text-decoration: none;
+}
+#iphone15{
+    background-image: url(../assests/4.jpg);
+    height: 75vh;
+    text-align: center;
+    background-repeat: no-repeat;
+    background-size: 250vh;
+}
+
+.watchApple{
+    margin: 20px 0;
+}
+
+.watch{
+    margin-left: 50px;
+}
+.app{
+    color: white;
+    text-align: center;
+}
+.app1{
+    color: white;
+    text-align: center;
+}
+.watchImage1{
+    background-image: url(../assests/1..jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 700px;
+    width: 700px;
+}
+.watchImage{
+    background-image: url(../assests/images.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 700px;
+    width: 600px;
+}
+
+.apple1{
+    margin-left: 210px;
+    padding-top: 20px;
+    margin-bottom: 0;
+    display: flex;
+    
+}
+.apple{
+    color: white;
+    font-size: 7vh;
+    padding-top: 3px;
+    margin-right: 12px;
+}
+
+.ultrahead{
+    padding-left: 230px;
+    padding-top: 20px;
+    margin-bottom: 0;
+    display: flex;
+}
+.apple2{
+    font-size: 8vh;
+    margin-right: 12px;
+    color: black;
+}
+.ultrahead h1{
+    color: black;
+    font-size: 7vh;
+    font-weight: 700;
+}
+
+
+.series{
+    color: red;
+    margin:0;
+    font-weight: 700;
+    font-size: 18px;
+}
+.smarter{
+    font-size: 4vh;
+    margin: 10px 0;
+}
+
+.watchseries9 p{
+    margin: 0;
+}
+
+.ultra{
+    color: orangered;
+    margin: 0;
+    font-weight: 800;
+} 
+.next{
+    font-size:4vh ;
+    color: black;
+    margin: 8px 0;
+    font-weight: 700;
+} 
+.ultrahead{
+    display: flex;
+    margin-left: 18px;
+}
+
+/* sectionmacpro */
+.macBook{
+    background-image: url(../assests/8.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 700px;
+    width: 600px;
+}
+.macpro{
+    margin-top: 40px;
+}
+.lap{
+    margin: 0 70px;
+    margin-top: 100px;
+}
+.mac{
+    text-align: center;
+    font-size: 3vh;
+}
+.fitnessImage{
+    background-image: url(../assests/2.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 700px;
+    width: 700px;
+}
+.fitness{
+     text-align: center;
+    font-size: 3vh;
+}
+.fitness1{
+    margin-left: 250px;
+    padding-top: 20px;
+    margin-bottom: 0;
+    display: flex;
+}
+.apple3{
+    font-size: 7vh;
+    padding-top: 2px;
+    padding-right: 2vh;
+}
+.head{
+    font-size: 6vh;
+}
+
+.HIIT{
+    font-size: 3vh;
+    line-height: 25px;
+}
+.lap1{
+    margin: 170px 0;
+}
+.shop{
+    margin-left: 70px;
+}
+
+
+
+
+
